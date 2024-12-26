@@ -15,7 +15,6 @@
    </a>
 </div>
 
-
 ---
 
 ### 🚀 Stats
@@ -25,7 +24,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Anagon1803&theme=radical&show_icons=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anagon1803&layout=compact&langs_count=8&theme=radical"/>
 </div>
-  
+
+### 🔥 Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anagon1803&theme=radical)](https://git.io/streak-stats)
+
 ---
 
 ### 🛠️ Technologies I Work With
@@ -48,5 +51,5 @@
 ### 🐍 Contributions
 
 <div>
-  In Progress ...
+    ![Snake animation](https://github.com/Anagon1803/Anagon1803/blob/output/github-contribution-grid-snake.svg)
 </div>

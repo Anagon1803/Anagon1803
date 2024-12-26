@@ -9,18 +9,11 @@
 - 🌱 **Currently learning:** Advanced neural networks, Docker, and Symfony development.
 
 <br>
-<body>
-    <a href="https://github.com/Anagon1803">
-        <img align="right" alt="GitHub" src="https://cdn.discordapp.com/attachments/836712599180935248/983119172508741723/unknown.png"
-      width="30" height="30">
-    </a>
-</body>
-
-<body>
+<div>
    <a href="https://www.linkedin.com/in/anaëlle-urbon-39b60b238/" target="_blank" rel="noopener noreferrer">
       <img align="center" alt="LinkedIn" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
    </a>
-</body>
+</div>
 
 
 ---

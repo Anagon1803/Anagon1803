@@ -29,6 +29,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anagon1803&theme=radical)](https://git.io/streak-stats)
 
+### ⏱️ Daily Activity
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Anagon1803&theme=radical)
+
 ---
 
 ### 🛠️ Technologies I Work With

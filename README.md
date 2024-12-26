@@ -38,13 +38,12 @@
 ### 🛠️ Technologies I Work With
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ana-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ana-Symfony" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg">
   <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ana-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ana-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Ana-SDL2" height="30" width="40" src="https://cdn.discordapp.com/attachments/836712599180935248/873092697592823838/pngwing.com.png">
+  <img align="center" alt="Ana-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/c-original.svg">
 </div>
 
 ---
@@ -52,5 +51,5 @@
 ### 🐍 Contributions
 
 <div>
-  ![Snake animation](https://github.com/Anagon1803/Anagon1803/blob/output/github-contribution-grid-snake.svg)
+  In Progress ...
 </div>

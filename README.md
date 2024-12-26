@@ -17,11 +17,11 @@
 </body>
 
 <body>
-   <a href="https://www.linkedin.com/in/anaelle-profile">
-      <img align="right" alt="LinkedIn" src="https://cdn.discordapp.com/attachments/836712599180935248/983118329256484944/unknown.png"
-      width="30" height="30">
+   <a href="https://www.linkedin.com/in/anaëlle-urbon-39b60b238/" target="_blank" rel="noopener noreferrer">
+      <img align="center" alt="LinkedIn" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
    </a>
-</body>  
+</body>
+
 
 ---
 

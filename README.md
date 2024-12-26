@@ -1,5 +1,5 @@
 <br>
-<img align="right" height="180" alt="custom gif" src="https://cdn.discordapp.com/attachments/836712599180935248/994459932810301451/GIFGIT.gif">
+<img align="right" height="180" alt="custom gif" src="https://i.pinimg.com/originals/f5/03/c5/f503c5c4d5645686d4ac1d7e353575a8.gif">
 </br>
 
 ### Hi there! I'm Anaëlle 😊

@@ -5,8 +5,8 @@
 ### Hi there! I'm Anaëlle 😊
 
 - 🎓 **Epitech Marseille Student**
-- 💻 **Passionate about AI, game development, and full-stack projects**
-- 🌱 **Currently learning:** Advanced neural networks, Docker, and Symfony development.
+- 💻 **Passionate about AI, game development, and video game**
+<!-- - 🌱 **Currently learning:** -->
 
 <br>
 <div>
@@ -29,9 +29,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anagon1803&theme=radical)](https://git.io/streak-stats)
 
-### ⏱️ Daily Activity
+<!-- ### ⏱️ Daily Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Anagon1803&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Anagon1803&theme=radical) -->
 
 ---
 

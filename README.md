@@ -1,5 +1,5 @@
 <div>
-  <img src="https://i.pinimg.com/originals/44/f2/8e/44f28e1bc8669e6e5aaefee6b230cca0.gif" height="180">
+  <img src="https://fr.pinterest.com/pin/13651605113572094/" height="180">
 </div>
 
 ### Hi there! I'm Anaëlle 😊

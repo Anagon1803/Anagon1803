@@ -52,8 +52,8 @@
 
 ---
 
-### 🐍 Contributions
+<!-- ### 🐍 Contributions
 
 <div>
     ![Snake animation](https://github.com/Anagon1803/Anagon1803/blob/output/github-contribution-grid-snake.svg)
-</div>
+</div> -->

@@ -1,5 +1,5 @@
 <div>
-  <img src="https://i.pinimg.com/originals/f5/03/c5/f503c5c4d5645686d4ac1d7e353575a8.gif" align="right" height="180" alt="custom gif">
+  <img src="https://i.pinimg.com/originals/f5/03/c5/f503c5c4d5645686d4ac1d7e353575a8.gif" height="180">
 </div>
 
 ### Hi there! I'm Anaëlle 😊

@@ -1,5 +1,5 @@
 <div>
-  <img src="[https://fr.pinterest.com/pin/13651605113572094/" height="180"](https://giphy.com/embed/N3yLGQ1oMYfGU" width="480" height="269")>
+  <img src="https://i.pinimg.com/736x/b7/3a/b4/b73ab491bf8e254bb07c9fa78b7a69ef.jpg" width="800">
 </div>
 
 ### Hi there! I'm Anaëlle 😊
